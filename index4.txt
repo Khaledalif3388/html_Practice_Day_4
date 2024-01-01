@@ -1,0 +1,6 @@
+table--table create
+thead--headings
+tbody--actual content..
+tfoot--Summarization,subtotal,total
+rowspan--row extend korte
+colspan--column extend korte
